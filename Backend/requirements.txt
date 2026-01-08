@@ -1,0 +1,15 @@
+# Core framework
+fastapi==0.115.0
+uvicorn==0.30.6
+
+# Database
+sqlalchemy==2.0.23
+# sqlite is built-in
+
+# Data validation
+pydantic==2.9.2
+pydantic-settings==2.3.4
+
+# Utilities
+python-multipart==0.0.9
+requests==2.32.3
